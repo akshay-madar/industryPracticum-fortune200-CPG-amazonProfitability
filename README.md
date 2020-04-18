@@ -12,7 +12,11 @@ We applied machine learning and prescriptive solutions in ecommerce analytics fo
 
 We were also selected and invited to present our industry poster at this prestigious conference. 
 
+
 ![INFORMS Poster](https://github.com/akshay-madar/industryPracticum-fortune200-CPG-amazonProfitability/blob/master/Industry%20Poster.jpg)
+
+![Presentation](https://github.com/akshay-madar/industryPracticum-fortune200-CPG-amazonProfitability/blob/master/Poster%20Presentation%20at%20Expo.jpg)
+
 
 ### Note:
 All necessary data has been hidden or anonymized as per NDA requirements with our industry partner.
