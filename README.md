@@ -6,7 +6,7 @@ We applied machine learning and prescriptive solutions in ecommerce analytics fo
 
   - Developed profitability prediction model at SKU-level granularity; built Tableau based decision support system for 425 ASINs. Model will help business augment marketing and supply chain when dealing with Amazon.com, Inc.
   - Formed new promotional groupings of SKUs for improved marketing as part of Trade Promotion Optimization by implementing profit    optimization using MILP
-  - Projected $58 million increase in year-on-year revenue growth by improving sales forecasting by 25% using ARIMA and LSTM
+  - Projected $22 million increase in year-on-year revenue growth by improving sales forecasting by 25% using ARIMA and LSTM
   
 ## INFORMS Business Analytics Conference 2020, Denver
 
